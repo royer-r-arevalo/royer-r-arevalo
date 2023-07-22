@@ -10,15 +10,11 @@
 
 ### 🧑 About Me :
 
-- 🔭 I’m currently working on **personal projects**
-
 - 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Asp.Net Core, Transact-SQL, Microsoft SQL Server**
 
 - 📫 How to reach me **royer.r.arevalo@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 ### 🌐 Connect with me :
 <p align="left">
