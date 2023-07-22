@@ -1,22 +1,31 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="200" />
-  <h1 align="center">Hi👋, I'm Royer </h1>
-  <h3 align="center"> A Highly motivated Software Developer offering over 3+ years of experience in developing and maintaining enterprise-level web solutions using .NET technologies (MVC, Blazor, Web API, Entity Framework Core) and C# as a programming language, in addition to having solid knowledge in SQL, SQL Server, Git, GitHub, Azure DevOps, and Scrum. I am a proactive person, I like to share my knowledge and contribute ideas, I seek to broaden my experience in the development of websites making them faster, safer, and more accessible.
-  </h3>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70%"/> 
+  <h1 align="center">Hi 👋, I'm Royer</h1>
+  <h3 align="center">A passionate full stack developer from Bolivia</h3>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/royer-rodrigo-arevalo-chambi-70452a1b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</div>
+<img align="right" alt="Coding" src="https://media.giphy.com/media/MQnmKbh8A9n9kT4Ua5/giphy.gif" width="400"/>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=royer-r-arevalo&label=Profile%20views&color=0e75b6&style=flat" alt="royer-r-arevalo" /> </p>
 
 ### 🧑 About Me :
--
--
--
+
+- 🔭 I’m currently working on **personal projects**
+
+- 🌱 I’m currently learning **Angular**
+
+- 💬 Ask me about **Asp.Net Core, Transact-SQL, Microsoft SQL Server**
+
+- 📫 How to reach me **royer.r.arevalo@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
+### 🌐 Connect with me :
+<p align="left">
+  <a href="https://linkedin.com/in/royer-rodrigo-arevalo-chambi-70452a1b1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="royer-rodrigo-arevalo-chambi-70452a1b1" height="30" width="40" />
+  </a>
+</p>
 
 <div align="left">
   <h3>🔨 Languages and Tools</h3>
@@ -36,10 +45,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgress SQL" alt="Postgress SQL" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="AspNet Framework" alt="AspNet Framework" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Code" alt="Visual Code" width="40" height="40" />&nbsp;
   </div>
 </div>
-
----
 
 ### 📈 My Stats:
 
@@ -49,18 +62,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royer-r-arevalo)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**royer-r-arevalo/royer-r-arevalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
