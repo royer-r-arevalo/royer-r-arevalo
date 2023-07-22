@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70%"/> 
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80%"/> 
   <h1 align="center">Hi 👋, I'm Royer</h1>
   <h3 align="center">A passionate full stack developer from Bolivia</h3>
 </div>
 
-<img align="right" alt="Coding" src="https://media.giphy.com/media/MQnmKbh8A9n9kT4Ua5/giphy.gif" width="400"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royer-r-arevalo&label=Profile%20views&color=0e75b6&style=flat" alt="royer-r-arevalo" /> </p>
+
+<img align="right" alt="Coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="300"/>
 
 ### 🧑 About Me :
 
