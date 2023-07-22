@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royer-r-arevalo&label=Profile%20views&color=0e75b6&style=flat" alt="royer-r-arevalo" /> </p>
 
-<img align="right" alt="Coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="300"/>
+<img align="right" alt="Coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="250"/>
 
 ### 🧑 About Me :
 
