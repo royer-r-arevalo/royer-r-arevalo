@@ -1,60 +1,44 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/> 
-  <h1 align="center">Hi 👋, I'm Royer</h1>
-  <h3 align="center">A passionate full stack developer from Bolivia</h3>
-</div>
+<h1>Hi 👋, I'm Royer</h1>
+<h2>A passionate full-stack developer from Bolivia</h2>
+
+### About Me
+- I like to work more on the **backend** side, but I can also contribute a lot to the **frontend**.
+- I am a **.Net** culture lover.
+- I am looking to build a career as a software architect.
+- I am a self-taught and very creative person who seeks to learn and improve every day.
+
+### Technologies
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SASS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=red)
+  </br>
+  ![Csharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+  ![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=blazor)
+  ![MVC](https://img.shields.io/badge/-MVC-333333?style=flat&logo=dotnet)
+  ![LINQ](https://img.shields.io/badge/-LINQ-333333?style=flat&logo=dotnet)
+  ![Web API](https://img.shields.io/badge/-WebApi-333333?style=flat&logo=dotnet)
+  ![Entity Framework Core](https://img.shields.io/badge/-EntityFrameworkCore-333333?style=flat&logo=dotnet)
+  </br>
+  ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
+  ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQLServer-333333?style=flat&logo=mysql)
+  </br>
+  ![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-333333?style=flat&logo=azuredevops)
+  ![TFS](https://img.shields.io/badge/-TeamFoundationControl-333333?style=flat&logo=tfs)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+### Contact Me
+<a href="https://www.linkedin.com/in/royer-rodrigo-arevalo-chambi-70452a1b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Royer%20Arevalo-blue?style=flat-square&logo=linkedin"></a> </br>
+<a href="royer.r.arevalo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-royer.r.arevalo@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+
+### Stats
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=royer-r-arevalo&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royer-r-arevalo&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royer-r-arevalo&label=Profile%20views&color=0e75b6&style=flat" alt="royer-r-arevalo" /> </p>
-
-<img align="right" alt="Coding" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="250"/>
-
-### 🧑 About Me :
-
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **Asp.Net Core, Transact-SQL, Microsoft SQL Server**
-
-- 📫 How to reach me **royer.r.arevalo@gmail.com**
-
-### 🌐 Connect with me :
-<p align="left">
-  <a href="https://linkedin.com/in/royer-rodrigo-arevalo-chambi-70452a1b1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="royer-rodrigo-arevalo-chambi-70452a1b1" height="30" width="40" />
-  </a>
-</p>
-
-<div align="left">
-  <h3>🔨 Languages and Tools</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="AspNetCore" alt="AspNetCore" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer" alt="SQLServer" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgress SQL" alt="Postgress SQL" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="AspNet Framework" alt="AspNet Framework" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Code" alt="Visual Code" width="40" height="40" />&nbsp;
-  </div>
-</div>
-
-### 📈 My Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=royer-r-arevalo&mode=weekly)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=royer-r-arevalo&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royer-r-arevalo)](https://github.com/anuraghazra/github-readme-stats)
-
