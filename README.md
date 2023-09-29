@@ -36,7 +36,7 @@
   ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
   
 ### Contact Me
-<a href="https://www.linkedin.com/in/royer-rodrigo-arevalo-chambi-70452a1b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Royer%20Arevalo-blue?style=flat-square&logo=linkedin"></a> </br>
+<a href="https://www.linkedin.com/in/royerare/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Royer%20Arevalo-blue?style=flat-square&logo=linkedin"></a> </br>
 <a href="royer.r.arevalo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-royer.r.arevalo@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
 ### Stats
