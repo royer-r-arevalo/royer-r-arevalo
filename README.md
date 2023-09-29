@@ -17,21 +17,23 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=red)
   </br>
-  ![Csharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-  ![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=blazor)
-  ![MVC](https://img.shields.io/badge/-MVC-333333?style=flat&logo=dotnet)
-  ![LINQ](https://img.shields.io/badge/-LINQ-333333?style=flat&logo=dotnet)
-  ![Web API](https://img.shields.io/badge/-WebApi-333333?style=flat&logo=dotnet)
-  ![Entity Framework Core](https://img.shields.io/badge/-EntityFrameworkCore-333333?style=flat&logo=dotnet)
+  ![Csharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=9984d2)
+  ![Blazor](https://img.shields.io/badge/-Blazor-333333?style=flat&logo=blazor&logoColor=9984d2)
+  ![MVC](https://img.shields.io/badge/-MVC-333333?style=flat&logo=dotnet&logoColor=9984d2)
+  ![LINQ](https://img.shields.io/badge/-LINQ-333333?style=flat&logo=dotnet&logoColor=9984d2)
+  ![Web API](https://img.shields.io/badge/-Web%20Api-333333?style=flat&logo=dotnet&logoColor=9984d2)
+  ![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-333333?style=flat&logo=dotnet&logoColor=9984d2)
   </br>
-  ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
-  ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/-MySQLServer-333333?style=flat&logo=mysql)
+  ![SQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=9984d2)
+  ![PostgresSQL](https://img.shields.io/badge/-Postgres%20SQL-333333?style=flat&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-My%20SQL%20Server-333333?style=flat&logo=mysql)
   </br>
-  ![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-333333?style=flat&logo=azuredevops)
-  ![TFS](https://img.shields.io/badge/-TeamFoundationControl-333333?style=flat&logo=tfs)
+  ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops&logoColor=1572B6)
+  ![TFS](https://img.shields.io/badge/-Team%20Foundation%20Control-333333?style=flat&logo=tfs&logoColor=1572B6)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  </br>
+  ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
   
 ### Contact Me
 <a href="https://www.linkedin.com/in/royer-rodrigo-arevalo-chambi-70452a1b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Royer%20Arevalo-blue?style=flat-square&logo=linkedin"></a> </br>
