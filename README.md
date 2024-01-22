@@ -1,7 +1,7 @@
 <img width="1440" alt="2023-09-29_11-59-42" src="https://github.com/royer-r-arevalo/royer-r-arevalo/assets/69604497/67e5450a-447e-4c5e-afc4-5a5b6c56b7ba">
 
 <h1>Hi 👋, I'm Royer</h1>
-<h2>A passionate Software Engineer from Bolivia</h2>
+<h2>A passionate software engineer from Bolivia</h2>
 
 ### About Me
 - I like to work more on the **backend** side, but I can also contribute a lot to the **frontend**.
